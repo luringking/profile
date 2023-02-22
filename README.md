@@ -1,10 +1,8 @@
 ### Hi! My name is Kazim Safi
 
 -------
-<Html><Body style="background-color:#252424"> 
-<p color="white"
-
-I have just started coding.
+<Html><Body style="background-color:#000000"> 
+<p style="color:white">
 
 * 🌍  I'm from India
 
@@ -13,7 +11,7 @@ I have just started coding.
 * ✉️  You can contact me at [Twitter](https://twitter.com/luringking)
 
 * 🧠  I'm learning Javascript
-</p
+</p>
 <br/>   
 
 <br/>
