@@ -12,6 +12,7 @@
 
 * 🧠  I'm learning Javascript
 </p>
+</Body></Html>
 <br/>   
 
 <br/>
@@ -72,5 +73,3 @@
 ----
 
 <div align="center">Official Profile of <a href="https://twitter.com/luringking" target="_blank">Kazim Safi</a></div>
-
-</Body></Html>
