@@ -1,8 +1,6 @@
 ### Hi! My name is Kazim Safi
 
 -------
-<Html><Body style="background-color:#000000"> 
-<p style="color:white">
 
 * 🌍  I'm from India
 
@@ -10,10 +8,7 @@
 
 * ✉️  You can contact me at [Twitter](https://twitter.com/luringking)
 
-* 🧠  I'm learning Javascript
-</p>
-</Body></Html>
-<br/>   
+* 🧠  I'm learning Javascript   
 
 <br/>
 
