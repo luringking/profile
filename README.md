@@ -1,6 +1,7 @@
 ### Hi! My name is Kazim Safi
 
 -------
+<Html><Body style="background-color:#252424"> 
 <p color="white"
 
 I have just started coding.
@@ -13,9 +14,7 @@ I have just started coding.
 
 * 🧠  I'm learning Javascript
 </p
-<br/>  
-
-<Html><Body style="background-color:#252424"></Body></Html>  
+<br/>   
 
 <br/>
 
@@ -75,3 +74,5 @@ I have just started coding.
 ----
 
 <div align="center">Official Profile of <a href="https://twitter.com/luringking" target="_blank">Kazim Safi</a></div>
+
+</Body></Html>
