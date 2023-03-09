@@ -3,4 +3,4 @@
  This is the my official profile website.
 </p>
 
-> [click here](https://luringking.github.io/profile) to go to the website
+> [click here](https://thekazimsafi.github.io/profile) to go to the website
